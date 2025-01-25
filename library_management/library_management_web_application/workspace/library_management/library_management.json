@@ -1,0 +1,37 @@
+{
+ "app": "frappe",
+ "charts": [],
+ "content": "[{\"id\":\"SKuApmAJTX\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Library Management</span>\",\"col\":12}},{\"id\":\"HJVAFLuhQF\",\"type\":\"custom_block\",\"data\":{\"custom_block_name\":\"Drop Down\",\"col\":12}}]",
+ "creation": "2025-01-25 20:31:20.134567",
+ "custom_blocks": [
+  {
+   "custom_block_name": "Drop Down",
+   "label": "Drop Down"
+  }
+ ],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "notebook-text",
+ "idx": 0,
+ "indicator_color": "blue",
+ "is_hidden": 0,
+ "label": "Library Management",
+ "link_type": "DocType",
+ "links": [],
+ "modified": "2025-01-25 20:51:03.166169",
+ "modified_by": "Administrator",
+ "module": "Library Management Web Application",
+ "name": "Library Management",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 23.0,
+ "shortcuts": [],
+ "title": "Library Management",
+ "type": "Workspace"
+}

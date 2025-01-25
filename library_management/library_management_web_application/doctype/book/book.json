@@ -1,0 +1,108 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:BOOK-{year1}-{######}",
+ "creation": "2025-01-24 23:15:42.483320",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "title",
+  "author",
+  "isbn",
+  "publisher",
+  "publication_date",
+  "year1",
+  "stock",
+  "rented_count",
+  "available_quantity",
+  "rent_fee",
+  "average_rating"
+ ],
+ "fields": [
+  {
+   "fieldname": "title",
+   "fieldtype": "Data",
+   "label": "Title"
+  },
+  {
+   "fieldname": "author",
+   "fieldtype": "Data",
+   "label": "Author(s)"
+  },
+  {
+   "fieldname": "isbn",
+   "fieldtype": "Data",
+   "label": "ISBN"
+  },
+  {
+   "fieldname": "publisher",
+   "fieldtype": "Data",
+   "label": "Publisher"
+  },
+  {
+   "fieldname": "stock",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Total No. of Books"
+  },
+  {
+   "fieldname": "available_quantity",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Books Available to Rent"
+  },
+  {
+   "fieldname": "rented_count",
+   "fieldtype": "Int",
+   "label": "Rented Count",
+   "read_only": 1
+  },
+  {
+   "fieldname": "rent_fee",
+   "fieldtype": "Currency",
+   "label": "Rent Fee"
+  },
+  {
+   "fieldname": "average_rating",
+   "fieldtype": "Float",
+   "label": "Average Rating"
+  },
+  {
+   "fieldname": "publication_date",
+   "fieldtype": "Date",
+   "label": "Publication Date"
+  },
+  {
+   "fieldname": "year1",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "Year"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-01-25 21:05:32.819400",
+ "modified_by": "Administrator",
+ "module": "Library Management Web Application",
+ "name": "Book",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "title"
+}
