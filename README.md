@@ -55,57 +55,53 @@ This is a web-based Library Management System built using the Frappe Framework. 
 ### 9. **Import Books Confirmation**
 ![Screenshot from 2025-01-25 21-11-53.png](Screenshot%20from%202025-01-25%2021-11-53.png)
 - A confirmation message showing that books were successfully imported.
-- 
+ 
 ### 8. **Books List After Import**
 ![Screenshot from 2025-01-25 21-12-20.png](Screenshot%20from%202025-01-25%2021-12-20.png)
 - The Books list view after importing books, showing the newly added books.
 
 
-### 10. **Books List with Imported Data**
-![Screenshot from 2025-01-25 21-11-53.png](Screenshot%20from%202025-01-25%2021-11-53.png)
-- The Books list view displaying the imported books with their details.
-
-### 11. **New Transaction Form**
+### 10. **New Transaction Form**
 ![Screenshot from 2025-01-25 21-14-20.png](Screenshot%20from%202025-01-25%2021-14-20.png)
 - The form for creating a new transaction, including fields for member, book, issue date, and return date.
 
-### 12. **Transaction Details**
+### 11. **Transaction Details**
 ![Screenshot from 2025-01-25 21-18-10.png](Screenshot%20from%202025-01-25%2021-18-10.png)
 - The details page for a transaction, showing information like member, book, issue date, and total fee.
 
-### 13. **Transaction List View**
+### 12. **Transaction List View**
 ![Screenshot from 2025-01-25 21-20-51.png](Screenshot%20from%202025-01-25%2021-20-51.png)
 - The Transactions list view, displaying all transactions in the system.
 
-### 14. **Transaction Return Action**
+### 13. **Transaction Return Action**
 ![Screenshot from 2025-01-25 21-24-37.png](Screenshot%20from%202025-01-25%2021-24-37.png)
 - Returning transactions.
 
-### 15. **Returned Transaction**
+### 14. **Returned Transaction**
 ![Screenshot from 2025-01-25 22-39-51.png](Screenshot%20from%202025-01-25%2022-39-51.png)
 - Details of a returned transaction, including the total fee.
 
-### 16. **Transaction List Without Adding Filters**
+### 15. **Transaction List Without Adding Filters**
 ![Screenshot from 2025-01-25 22-41-10.png](Screenshot%20from%202025-01-25%2022-41-10.png)
 - The Transactions list view with filters applied to show specific transactions.
 
-### 17. **Filtered Transactions**
+### 16. **Filtered Transactions**
 ![Screenshot from 2025-01-25 22-41-32.png](Screenshot%20from%202025-01-25%2022-41-32.png)
 - Filtered transactions showing only returned books.
 
-### 18. **Issued Transactions**
+### 17. **Issued Transactions**
 ![Screenshot from 2025-01-25 22-41-47.png](Screenshot%20from%202025-01-25%2022-41-47.png)
 - Filtered transactions showing only issued books.
 
-### 19. **New Member Form with Error**
+### 18. **New Member Form with Error**
 ![Screenshot from 2025-01-25 22-45-40.png](Screenshot%20from%202025-01-25%2022-45-40.png)
 - The form for adding a new member, showing an error for an invalid email address.
 
-### 20. **Member Details**
+### 19. **Member Details**
 ![Screenshot from 2025-01-25 22-46-21.png](Screenshot%20from%202025-01-25%2022-46-21.png)
 - The details page for a member, showing information like name, email, phone, and outstanding debt.
 
-### 21. **Members List View**
+### 20. **Members List View**
 ![Screenshot from 2025-01-25 22-46-30.png](Screenshot%20from%202025-01-25%2022-46-30.png)
 - The Members list view, displaying all members in the system.
 
