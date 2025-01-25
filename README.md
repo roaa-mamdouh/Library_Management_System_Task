@@ -49,10 +49,10 @@ This is a web-based Library Management System built using the Frappe Framework. 
 - The form for adding a new book, including fields for title, author, ISBN, publisher, and more.
 
 ### 6. **Books List with Data**
-![Screenshot from 2025-01-25 21-04-26.png](Screenshot%20from%202025-01-25%2021-04-26.png)
+![Screenshot from 2025-01-25 21-07-12.png](Screenshot%20from%202025-01-25%2021-04-26.png)
 - The Books list view after adding a book, showing details like title, status, and available quantity.
 
-### 7. **Import Books Dialog**
+### 7. **Import Books Via API Dialog**
 ![Screenshot from 2025-01-25 21-04-55.png](Screenshot%20from%202025-01-25%2021-04-55.png)
 - The dialog for importing books via the Frappe API, allowing the user to specify search parameters and quantity.
 
