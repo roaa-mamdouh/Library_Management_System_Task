@@ -41,24 +41,25 @@ This is a web-based Library Management System built using the Frappe Framework. 
 - The initial state of the Books list view before any books are added.
 
 ### 5. **New Book Form**
-![Screenshot from 2025-01-25 21-04-03.png]
+![Screenshot from 2025-01-25 21-04-03.png](Screenshot%20from%202025-01-25%2021-04-03.png)
 - The form for adding a new book, including fields for title, author, ISBN, publisher, and more.
 
 ### 6. **Books List with Data**
-![Screenshot from 2025-01-25 21-07-12.png]
+![Screenshot from 2025-01-25 21-07-12.png](Screenshot%20from%202025-01-25%2021-07-12.png)
 - The Books list view after adding a book, showing details like title, status, and available quantity.
 
 ### 7. **Import Books Via API Dialog**
-![Screenshot from 2025-01-25 21-11-44.png](Screenshot%20from%202025-01-25%2021-04-55.png)
+![Screenshot from 2025-01-25 21-11-44.png](Screenshot%20from%202025-01-25%2021-11-44.png)
 - The dialog for importing books via the Frappe API, allowing the user to specify search parameters and quantity.
 
+### 9. **Import Books Confirmation**
+![Screenshot from 2025-01-25 21-11-53.png](Screenshot%20from%202025-01-25%2021-11-53.png)
+- A confirmation message showing that books were successfully imported.
+- 
 ### 8. **Books List After Import**
-![Screenshot from 2025-01-25 21-07-12.png](Screenshot%20from%202025-01-25%2021-07-12.png)
+![Screenshot from 2025-01-25 21-12-20.png](Screenshot%20from%202025-01-25%2021-12-20.png)
 - The Books list view after importing books, showing the newly added books.
 
-### 9. **Import Books Confirmation**
-![Screenshot from 2025-01-25 21-11-44.png](Screenshot%20from%202025-01-25%2021-11-44.png)
-- A confirmation message showing that books were successfully imported.
 
 ### 10. **Books List with Imported Data**
 ![Screenshot from 2025-01-25 21-11-53.png](Screenshot%20from%202025-01-25%2021-11-53.png)
@@ -76,15 +77,15 @@ This is a web-based Library Management System built using the Frappe Framework. 
 ![Screenshot from 2025-01-25 21-20-51.png](Screenshot%20from%202025-01-25%2021-20-51.png)
 - The Transactions list view, displaying all transactions in the system.
 
-### 14. **Transaction Filtering**
+### 14. **Transaction Return Action**
 ![Screenshot from 2025-01-25 21-24-37.png](Screenshot%20from%202025-01-25%2021-24-37.png)
-- Filtering transactions by status (e.g., Issued or Returned).
+- Returning transactions.
 
 ### 15. **Returned Transaction**
 ![Screenshot from 2025-01-25 22-39-51.png](Screenshot%20from%202025-01-25%2022-39-51.png)
 - Details of a returned transaction, including the total fee.
 
-### 16. **Transaction List with Filters**
+### 16. **Transaction List Without Adding Filters**
 ![Screenshot from 2025-01-25 22-41-10.png](Screenshot%20from%202025-01-25%2022-41-10.png)
 - The Transactions list view with filters applied to show specific transactions.
 
@@ -125,13 +126,6 @@ This is a web-based Library Management System built using the Frappe Framework. 
    - Return books and calculate rent fees.
 
 ---
-
-## Installation
-
-1. Clone the repository.
-2. Set up the Frappe environment.
-3. Install the app using `bench`.
-4. Run the app and start managing your library!
 
 ---
 
