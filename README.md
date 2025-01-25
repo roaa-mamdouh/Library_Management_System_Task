@@ -36,10 +36,6 @@ This is a web-based Library Management System built using the Frappe Framework. 
 ![Screenshot from 2025-01-25 20-51-38.png](Screenshot%20from%202025-01-25%2020-51-38.png)
 - The navigation menu with options for Books, Members, and Transactions.
 
-### 3. **Books List View**
-![Screenshot from 2025-01-25 21-01-04.png](Screenshot%20from%202025-01-25%2021-01-04.png)
-- The Books list view, displaying all books in the system.
-
 ### 4. **Empty Books List**
 ![Screenshot from 2025-01-25 21-01-22.png](Screenshot%20from%202025-01-25%2021-01-22.png)
 - The initial state of the Books list view before any books are added.
