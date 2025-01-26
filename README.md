@@ -83,7 +83,7 @@ This is a web-based Library Management System built using the Frappe Framework. 
 
 ### 15. **Transaction List Without Adding Filters**
 ![Screenshot from 2025-01-25 22-41-10.png](Screenshot%20from%202025-01-25%2022-41-10.png)
-- The Transactions list view with filters applied to show specific transactions.
+- The Transactions list view without filters applied.
 
 ### 16. **Filtered Transactions**
 ![Screenshot from 2025-01-25 22-41-32.png](Screenshot%20from%202025-01-25%2022-41-32.png)
