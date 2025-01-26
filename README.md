@@ -122,9 +122,3 @@ This is a web-based Library Management System built using the Frappe Framework. 
    - Return books and calculate rent fees.
 
 ---
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
